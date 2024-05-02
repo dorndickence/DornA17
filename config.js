@@ -62,7 +62,6 @@ global.wlcm = []
 global.gcrevoke = []
 global.autorep = []
 global.ntilink = []
-
 //
 global.mess = {
   jobdone: 'Here you go...',
